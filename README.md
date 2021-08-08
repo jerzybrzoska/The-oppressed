@@ -4,6 +4,7 @@
 * [Charie Shrem][1]
 * [Julian Assange][4]
 * [Ross Ulbright][3]
+* [Simon Mol][5]
 
 
 
@@ -11,3 +12,4 @@
 [2]: https://en.wikipedia.org/wiki/Aaron_Swartz
 [3]: https://en.wikipedia.org/wiki/Ross_Ulbricht
 [4]: https://en.wikipedia.org/wiki/Julian_Assange
+[5]: https://en.wikipedia.org/wiki/Simon_Mol
