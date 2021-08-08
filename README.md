@@ -4,7 +4,7 @@
 * [Charie Shrem][1]
 * [Julian Assange][4]
 * [Ross Ulbright][3]
-* [Simon Mol][5]
+* [Simon Mol][5] by Poland, Zbigniew Ziobro.
 
 
 
