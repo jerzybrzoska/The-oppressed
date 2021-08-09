@@ -1,7 +1,7 @@
 # Lis of people oppressed by fascists. Many of the victims are / were cypherpunks
 
 * [Aaron Swartz][2]
-* [Charie Shrem][1]
+* [Charlie Shrem][1]
 * [Julian Assange][4]
 * [Ross Ulbright][3]
 * [Simon Mol][5] Oppressor: Poland, Zbigniew Ziobro.
