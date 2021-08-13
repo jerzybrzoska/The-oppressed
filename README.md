@@ -1,10 +1,11 @@
-# Lis of people oppressed by fascists. Many of the victims are / were cypherpunks
+# List of people oppressed by fascists. Many of the victims are / were cypherpunks
 
 * [Aaron Swartz][2]
 * [Charlie Shrem][1]
 * [Julian Assange][4]
 * [Ross Ulbright][3]
 * [Simon Mol][5] Oppressor: Poland, Zbigniew Ziobro.
+* [Virgil Griffith] Oppressor: FBI, the US.
 
 
 
@@ -13,3 +14,4 @@
 [3]: https://en.wikipedia.org/wiki/Ross_Ulbricht
 [4]: https://en.wikipedia.org/wiki/Julian_Assange
 [5]: https://en.wikipedia.org/wiki/Simon_Mol
+[6]: https://en.wikipedia.org/wiki/Virgil_Griffith
