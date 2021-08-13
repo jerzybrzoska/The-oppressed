@@ -5,7 +5,7 @@
 * [Julian Assange][4]
 * [Ross Ulbright][3]
 * [Simon Mol][5] Oppressor: Poland, Zbigniew Ziobro.
-* [Virgil Griffith] Oppressor: FBI, the US.
+* [Virgil Griffith][6] Oppressor: FBI, the US.
 
 
 
