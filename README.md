@@ -15,3 +15,4 @@
 [4]: https://en.wikipedia.org/wiki/Julian_Assange
 [5]: https://en.wikipedia.org/wiki/Simon_Mol
 [6]: https://en.wikipedia.org/wiki/Virgil_Griffith
+[7]: https://szmer.info/post/11274
